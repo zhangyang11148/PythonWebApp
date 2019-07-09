@@ -5,3 +5,4 @@ dist/   ===>打包文件
 www/    ===>web目录，存放.py文件
 iOS/    ===>存放iOS app工程
 LICENSE ===>代码LICENSE
+develop
